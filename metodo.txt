@@ -1,0 +1,14 @@
+git pull
+git add .
+git commit -m "soy un mensaje"
+git push
+
+
+
+ git push --set-upstream origin main por si sale
+
+
+git pull
+
+
+https://github.com/Cristian-TF/sql.git
